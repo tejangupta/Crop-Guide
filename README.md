@@ -16,6 +16,10 @@ In these modern times, with many environmental factors to be considered, it's ch
 
 
 
+## Algorithm
+
+<img src="images/algorithm.png" alt="algorithm">
+
 ## Table Structure
 
 <img src="images/table.png" alt="table">
@@ -33,19 +37,21 @@ In these modern times, with many environmental factors to be considered, it's ch
 1. Install the modules in 'requirements.txt' by running
 
 ```bash
-pip install -r requirements,txt
+pip install -r requirements.txt
 ```
 
-2. Install the 'Qt-Designer':
+2. Install the 'Qt-Designer'
+
 https://build-system.fman.io/qt-designer-download
-3. To run this project unzip the folder named 'CropGuide_py'.
-4. Then run the file named 'cropguide.py'.
+
+3. To run this project, unzip the folder named 'CropGuide'.
+4. Then run the file named 'crop_guide.py'.
 5. To convert the '.ui' file to '.py' file use the command
 
 In our case 
 
 ```bash
-pyuic5 -x crop.ui -o crop_guide.py
+pyuic5 -x crop_guide.ui -o crop_guide.py
 ```
 
 In general,
