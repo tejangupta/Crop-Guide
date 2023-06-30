@@ -14,7 +14,7 @@ In these modern times, with many environmental factors to be considered, it's ch
 
 ## Outputs of GUI
 
-
+https://github.com/tejangupta/Crop-Guide/assets/89571912/ca36ff46-5039-4973-a48a-b82e8519fb40
 
 ## Algorithm
 
